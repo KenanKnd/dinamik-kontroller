@@ -45,6 +45,11 @@ namespace dinamik_kontroller_46
 
                 Button btn = new Button();
                 btn.Text = "Eray";
+                btn.Width = 80;
+                btn.Height = 40;
+                btn.BackColor = Color.SaddleBrown;
+                btn.ForeColor= Color.Bisque;
+                //btn.Font.Size = ;
                 flowLayoutPanel3.Controls.Add(btn);
             }
         }
