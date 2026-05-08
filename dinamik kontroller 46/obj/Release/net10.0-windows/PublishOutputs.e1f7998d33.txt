@@ -1,0 +1,5 @@
+C:\Users\çakma kovboy\Desktop\dinamik kontroller 46.exe
+C:\Users\çakma kovboy\Desktop\dinamik kontroller 46.dll
+C:\Users\çakma kovboy\Desktop\dinamik kontroller 46.deps.json
+C:\Users\çakma kovboy\Desktop\dinamik kontroller 46.runtimeconfig.json
+C:\Users\çakma kovboy\Desktop\dinamik kontroller 46.pdb

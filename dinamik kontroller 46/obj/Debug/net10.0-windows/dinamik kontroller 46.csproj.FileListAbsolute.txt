@@ -1,0 +1,17 @@
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\bin\Debug\net10.0-windows\dinamik kontroller 46.exe
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\bin\Debug\net10.0-windows\dinamik kontroller 46.deps.json
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\bin\Debug\net10.0-windows\dinamik kontroller 46.runtimeconfig.json
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\bin\Debug\net10.0-windows\dinamik kontroller 46.dll
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\bin\Debug\net10.0-windows\dinamik kontroller 46.pdb
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\obj\Debug\net10.0-windows\dinamik_kontroller_46.Form1.resources
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\obj\Debug\net10.0-windows\dinamik kontroller 46.csproj.GenerateResource.cache
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\obj\Debug\net10.0-windows\dinamik kontroller 46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\obj\Debug\net10.0-windows\dinamik kontroller 46.AssemblyInfoInputs.cache
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\obj\Debug\net10.0-windows\dinamik kontroller 46.AssemblyInfo.cs
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\obj\Debug\net10.0-windows\dinamik kontroller 46.csproj.CoreCompileInputs.cache
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\obj\Debug\net10.0-windows\dinamik kontroller 46.dll
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\obj\Debug\net10.0-windows\refint\dinamik kontroller 46.dll
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\obj\Debug\net10.0-windows\dinamik kontroller 46.pdb
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\obj\Debug\net10.0-windows\dinamik kontroller 46.genruntimeconfig.cache
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\obj\Debug\net10.0-windows\ref\dinamik kontroller 46.dll
+C:\Users\çakma kovboy\source\repos\dinamik kontroller 46\dinamik kontroller 46\obj\Debug\net10.0-windows\dinamik kontroller 46.sourcelink.json
