@@ -1,2 +1,0 @@
-﻿# dinamik-kontroller
-
